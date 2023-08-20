@@ -7,7 +7,7 @@ My first steps in JavaScript 😊
 
 -	[https://www.linkedin.com/in/napoleon-anaya/](https://www.linkedin.com/in/napoleon-anaya/)
 
-## Preview PC
+## Preview [https://www.codewizardai.com/parallax-2/](https://www.codewizardai.com/parallax-2/)
 
 ![..](https://github.com/alucart2005/littleJS_parallax2/blob/main/img/preview.jpg?raw=true)
 
